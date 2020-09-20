@@ -27,6 +27,7 @@ sudo ldconfig
 Install API libpostal:
 
 ```
+https://github.com/egorsmkv/api-libpostal.git
 cd api-libpostal
 cmake .
 make
